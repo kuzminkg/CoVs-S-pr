@@ -1,0 +1,2 @@
+# CoVs-S-pr
+We analyzed 1238 spike sequences for their host specificity. Spike sequences readily segregate in t-SNE embeddings into clusters of similar hosts and/or virus species. Machine learning with SVM, Logistic Regression, Decision Tree, Random Forest gave high average accuracies, F_1 scores, sensitivities and specificities of 0.95-0.99. Sites identified by Decision Tree corresponded to protein regions with known biological significance.
